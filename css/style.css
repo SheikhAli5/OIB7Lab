@@ -1,0 +1,21 @@
+body{
+  background-color: #FFF3B0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.btn{
+  width: 100px;
+  height: 20px;
+  background-color: #335C67;
+  margin-top: 15px;
+  border-radius: 15px
+}
+span{
+  color: #335C67;
+  font-size: 25px;
+}
+input{
+  margin-top: 200px;
+}
